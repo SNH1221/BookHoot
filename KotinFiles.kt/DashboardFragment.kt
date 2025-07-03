@@ -110,7 +110,7 @@ class DashboardFragment : Fragment() {
 
         val queue = Volley.newRequestQueue(activity as Context)
 
-        val url = "URL"
+        val url = "Your_URL"
 
 
         if (ConnectionManager().checkConnectivity(activity as Context)){
@@ -239,7 +239,7 @@ class DashboardFragment : Fragment() {
                 override fun getHeaders() : MutableMap<String, String> {
                     val headers = HashMap<String, String>()
                     headers["Content-type"] = "application/json"
-                    headers["token"] = "Token"
+                    headers["token"] = "Your_Token"
                     return headers
                 }
 
