@@ -40,7 +40,7 @@ Here are key screens from the BookHoot app:
 
 | Sign Up | Sign In |
 |---------|---------|
-| ![Sign Up](https://github.com/SNH1221/BookHoot/blob/main/ScreenShots/SignUp.png?raw=true) | ![Sign In](https://your-image-link.com/signin.png) |
+| ![Sign Up](https://github.com/SNH1221/BookHoot/blob/main/ScreenShots/SignUp.png?raw=true) | ![Sign In](https://github.com/SNH1221/BookHoot/blob/main/ScreenShots/SignIn.png?raw=true) |
 
 | Dashboard | About App |
 |-----------|-----------|
