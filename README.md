@@ -9,7 +9,7 @@ BookHoot is a modern Android application that helps users explore books, save fa
 - 🔐 **Login & Registration** – Secure authentication with Firebase.
 - 📘 **Dynamic Book Listing** – Real-time books fetched from a hosted JSON API.
 - ❤️ **Favorites System** – Save favorite books using Room Database.
-- 👤 **Profile Section** – View registered email, edit name, and logout.
+- 👤 **Profile Section** – View registered email, edit about section, and logout.
 - 🧾 **About App** – Scrollable section with app info, version, and developer contact.
 
 
