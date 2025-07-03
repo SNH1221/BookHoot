@@ -46,7 +46,7 @@ Here are key screens from the BookHoot app:
 |-----------|-----------|
 | ![Dashboard](https://github.com/SNH1221/BookHoot/blob/main/ScreenShots/Dashboard.png?raw=true) | ![About App](https://github.com/SNH1221/BookHoot/blob/main/ScreenShots/AboutApp.png?raw=true) |
 
-> 🔗 *Replace the above links with actual image URLs from GitHub, Imgur, or another image hosting service.*
+
 
 
 
