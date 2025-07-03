@@ -90,7 +90,7 @@ class DescriptionActivity : AppCompatActivity() {
 
         val queue = Volley.newRequestQueue(this@DescriptionActivity)
 
-        val url = "URL"
+        val url = "Your_URL"
 
         val jsonParams = JSONObject()
         jsonParams.put("book_id", bookId)
@@ -220,7 +220,7 @@ class DescriptionActivity : AppCompatActivity() {
                 override fun getHeaders(): MutableMap<String, String> {
                     val headers = HashMap<String, String>()
                     headers["Content-type"] = "application/json"
-                    headers["token"] = "Token"
+                    headers["token"] = "Your_Token"
                     return headers
                 }
 
