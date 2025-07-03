@@ -36,7 +36,18 @@ BookHoot is a modern Android application that helps users explore books, save fa
 
 ## 📸 Screenshots
 
-*(Add screenshots of your app UI here: Dashboard, Profile, About App, etc.)*
+Here are key screens from the BookHoot app:
+
+| Sign Up | Sign In |
+|---------|---------|
+| ![Sign Up](https://your-image-link.com/signup.png) | ![Sign In](https://your-image-link.com/signin.png) |
+
+| Dashboard | About App |
+|-----------|-----------|
+| ![Dashboard](https://your-image-link.com/dashboard.png) | ![About App](https://your-image-link.com/about.png) |
+
+> 🔗 *Replace the above links with actual image URLs from GitHub, Imgur, or another image hosting service.*
+
 
 
 
